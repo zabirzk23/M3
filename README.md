@@ -1,7 +1,7 @@
 # EX-11-EMI-CALCULATOR
 
 ## AIM
-
+,l
 To write a program to prepare EMI calculator using function without return type and with arguments.
 
 ## ALGORITHM
